@@ -21,10 +21,10 @@ Build and Develop a fully Functional Web Application.
 
 
 ***Business Benefits***
--There would be increasing demand for e-business.
--The same application for each branch making business more efficient.
--Clients can return a rental at any nearby branch without any records needing to be transfered.
--Time saving and more organized.
+*There would be increasing demand for e-business.
+*The same application for each branch making business more efficient.
+Clients can return a rental at any nearby branch without any records needing to be transfered.
+Time saving and more organized.
 
 ***Team Composition***
 * [Jelani Garnes](https://github.com/Jelanigarnes): Project Manager - Programmer
