@@ -30,7 +30,7 @@ Web applications are being used more daily by corporate businesses and small com
 
 ***Team Composition***
 * [Jelani Garnes](https://github.com/Jelanigarnes): Project Manager - Programmer
-- [Baktash Sana]:Programmer
-- [Fawad Rahim]:Programmer
-- [Kobra Nateghi]:Programmer
+* [Baktash Sana](): Programmer
+* [Fawad Rahim](): Programmer
+* [Kobra Nateghi](): Programmer
 
